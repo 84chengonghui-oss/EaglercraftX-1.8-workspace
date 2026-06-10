@@ -39,7 +39,7 @@ public class CommandServerKick extends CommandBase {
 	 * Return the required permission level for this command.
 	 */
 	public int getRequiredPermissionLevel() {
-		return 3;
+		return 2;
 	}
 
 	/**+
